@@ -9,7 +9,7 @@
   "dependencies": {
     "highlight.js": "^11.4.0",
     "javascript-time-ago": "^2.3.13",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "marked": "^4.0.12",
     "next": "^12.1.0",
     "postcss-hover-media-feature": "^1.0.2",
